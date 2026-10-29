@@ -202,8 +202,7 @@ Replaced secret-based auth with Managed Identity + RBAC; automated certificate l
 | **Software Engineer** — .NET Full-Stack & Microservices | Teamware Solutions · *TCS* | 12/2018 – 06/2020 |
 | **Software Engineer** — Enterprise .NET Applications | Neo Innovations · *Government (CDFD, EME)* | 07/2015 – 12/2018 |
 
-🎓 **M.Tech, VLSI & Embedded Systems** — JNTU Kakinada<br/>
-🎓 **B.Tech, Electronics & Communication Engineering** — JNTU Kakinada
+🎓 **B.Tech, Electronics & Communication Engineering** — Jawaharlal Nehru Technological University (JNTU) Kakinada · 07/2010 – 06/2014
 
 ---
 
