@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jainulabdeen%20Sayyad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20.NET%20Full-Stack%20Engineer%20%7C%20AI%20%26%20Cloud%20Architect&descAlignY=60&descSize=18" width="100%" alt="header"/>
+  <img src="assets/header.svg" width="100%" alt="Jainulabdeen Sayyad — Senior .NET Full-Stack Engineer"/>
 </p>
 
 <p align="center">
@@ -222,10 +222,6 @@ Replaced secret-based auth with Managed Identity + RBAC; automated certificate l
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jainulabdeensd-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainulabdeensd-alt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jainulabdeensd-alt&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -245,5 +241,5 @@ Replaced secret-based auth with Managed Identity + RBAC; automated certificate l
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer"/>
+  <img src="assets/footer.svg" width="100%" alt=""/>
 </p>
