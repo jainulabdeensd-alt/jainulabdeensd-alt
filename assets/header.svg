@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/><stop offset=".5" stop-color="#203a43"/><stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="t" x1="0" x2="1">
+      <stop offset="0" stop-color="#36BCF7"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="240" rx="18" fill="url(#g)"/>
+  <rect width="1200" height="240" rx="18" fill="url(#grid)"/>
+  <circle cx="1080" cy="40" r="120" fill="#36BCF7" fill-opacity=".08"/>
+  <circle cx="120" cy="230" r="140" fill="#A78BFA" fill-opacity=".08"/>
+  <text x="600" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" letter-spacing="1">Jainulabdeen Sayyad</text>
+  <rect x="470" y="128" width="260" height="4" rx="2" fill="url(#t)"/>
+  <text x="600" y="172" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#cfe8f5">Senior .NET Full-Stack Engineer  ·  AI / GenAI Engineer  ·  Solution Architect</text>
+  <text x="600" y="206" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="16" fill="#36BCF7">11+ yrs  |  5x Azure Certified  |  Azure · AWS · Agentic AI · Data Platforms</text>
+</svg>
